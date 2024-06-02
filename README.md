@@ -24,7 +24,6 @@ Sections displaying product images.
 **Technologies Used**
 HTML5 for structuring the content.
 CSS3 for styling and layout.
-JavaScript for interactivity.
 
 
 **Setup and Installation**
