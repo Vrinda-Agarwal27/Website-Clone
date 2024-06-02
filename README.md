@@ -10,7 +10,7 @@ Usage
 
 
 **Project Overview**
-This project is a simple clone of the Myntra website, demonstrating the basic structure and design of an e-commerce platform. It includes a header with navigation, a search bar, a main section showcasing products, and a footer.
+This project is a simple clone of the Myntra website, demonstrating the basic structure and design of an e-commerce platform. It includes a header with navigation, a search bar, a main section showcasing products, and a footer.You can see a demo here - https://vrinda-agarwal27.github.io/Website-Clone/
 
 
 **Features**
